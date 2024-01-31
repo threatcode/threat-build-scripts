@@ -1,0 +1,35 @@
+# Live image
+# You always want these:
+threat-core
+threat-drivers
+calamares
+calamares-settings-threat
+
+# Metapackages
+threat-meta-devel
+threat-meta-privacy
+threat-meta-crypto
+
+# Graphical desktop
+threat-interface
+threat-interface-home
+threat-desktop-mate
+#task-mate-desktop
+
+# Extra packages
+codium
+golang-go
+nodejs
+npm
+default-jdk
+python3-pip
+git
+
+# Excluded packages
+chromium-
+mate-user-guide-
+pocketsphinx-en-us-
+libreoffice-help-en-us-
+mythes-en-us-
+libreoffice-help-common-
+espeak-ng-data-

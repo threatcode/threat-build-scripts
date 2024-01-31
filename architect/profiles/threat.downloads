@@ -1,0 +1,10 @@
+tasksel
+gnupg2
+btrfs-progs
+resolvconf
+threat-core
+base-files
+desktop-base
+threat-drivers
+mdadm
+grub-efi-arm64

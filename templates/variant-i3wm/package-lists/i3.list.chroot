@@ -1,0 +1,9 @@
+# Live image
+# You always want these:
+threat-core
+threat-drivers
+calamares
+calamares-settings-threat
+
+# Graphical desktop
+threat-desktop-i3

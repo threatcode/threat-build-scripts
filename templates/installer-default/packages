@@ -1,0 +1,33 @@
+# Full installer image
+# It should contain everything offered in tasksel
+# during initial installation
+
+# Metapackages
+threat-core
+threat-drivers
+
+# Utils
+threat-meta-crypto
+threat-meta-privacy
+threat-meta-devel
+openssh-server
+tasksel
+gnupg2
+btrfs-progs
+openvpn
+wireguard
+
+# Tools
+threat-tools-full
+
+
+# Graphical desktops
+threat-interface
+threat-interface-common
+threat-desktop-mate
+threat-desktop-i3
+threat-desktop-kde
+threat-desktop-xfce
+task-mate-desktop
+task-kde-desktop
+task-xfce-desktop

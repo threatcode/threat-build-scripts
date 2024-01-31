@@ -1,0 +1,70 @@
+# Live image
+# You always want these:
+threat-core
+threat-drivers
+calamares
+calamares-settings-threat
+
+## Metapackages
+threat-meta-devel
+
+## Tools (installed via hook script from threat-backports)
+
+#threat-tools-cloud
+#threat-tools-infogathering
+#threat-tools-maintain
+#threat-tools-password
+#threat-tools-postexploit
+#threat-tools-pwn
+#threat-tools-sniff
+#threat-tools-vuln
+#threat-tools-web
+#threat-tools-wireless
+
+## Graphical desktop
+threat-interface
+threat-desktop-mate
+#task-mate-desktop
+
+## Packages
+remmina
+gufw
+golang
+
+
+# tools to remove to save space
+mate-user-guide-
+pocketsphinx-en-us-
+libreoffice-help-en-us-
+mythes-en-us-
+libreoffice-help-common-
+espeak-ng-data-
+android-sdk-
+arduino-
+dradis-
+exploitdb-
+ferret-
+fonts-noto-core-
+freepats-
+gcc-avr-
+gnuradio*-
+guile-2.2-libs-
+gvim-
+imagemagick*-
+lmodern-
+minicom-
+pandoc*-
+plasma-discover-
+plasma-discover-common-
+qttools5-dev-tools-
+seclists-
+tex-*-
+tex-gyre-
+thunderbird-
+vim-
+wine-
+wine64-
+xpdf-
+xpra-
+termit-
+

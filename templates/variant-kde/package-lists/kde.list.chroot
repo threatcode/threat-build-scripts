@@ -1,0 +1,21 @@
+# Live image
+# You always want these:
+threat-core
+threat-drivers
+calamares
+calamares-settings-threat
+
+# Metapackages
+
+
+# Graphical desktop
+threat-interface
+threat-desktop-kde
+task-kde-desktop
+
+# Extra packages
+codium
+
+# Excluded packages
+plasma-discover-
+plasma-discover-common-

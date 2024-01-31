@@ -1,0 +1,18 @@
+# Live image
+# You always want these:
+threat-core
+threat-drivers
+calamares
+calamares-settings-threat
+
+# Metapackages
+threat-meta-devel
+
+
+# Graphical desktop
+threat-interface
+threat-desktop-gnome
+task-gnome-desktop
+
+# Exclude packages
+chromium-
